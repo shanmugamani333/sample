@@ -1,4 +1,4 @@
 <?php
-echo 'shanmugamani';
+echo 'shan';
 $a=40;
 ?>
