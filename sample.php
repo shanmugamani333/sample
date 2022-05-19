@@ -1,3 +1,3 @@
 <?php
-echo 'shanmugmani';
+echo 'shan';
 ?>
